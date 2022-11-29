@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет, я Павел 👋
+
+Приглашаю посетить мою страничку ![Резюме - Портфолио](https://cvdev.ru/)
 
 <!--
 **robky/robky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
